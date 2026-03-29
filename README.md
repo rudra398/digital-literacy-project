@@ -17,9 +17,5 @@ My goal is to build a strong profile and become ready for a successful career in
 
 
 
-NAME- RUDRA PRATAP SINGH
-BRANCH- CYBER SECURITY AND DIGITAL FORENSICS
-YEAR OF ADMISSION- 2025
-MY GOAL TO LEARN IN FUTURE-
-I want to expertise my skill regarding coding and try to achieve a good coding carrier.
+
 
