@@ -19,6 +19,7 @@ INTRODUCTION (Task 4):
 
 
 INTRODUCTION (Task 5):
+Task 5 focuses on understanding cyber safety and ways to protect ourselves from online threats. It highlights common risks such as phishing, fraud, and data theft that users may face while using digital platforms. This task also emphasizes the importance of safe online practices, awareness, and responsible behavior. By learning preventive measures and reporting methods, it aims to help individuals stay secure and confident in the digital environment.
 
 
 
