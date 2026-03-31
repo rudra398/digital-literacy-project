@@ -15,6 +15,7 @@ INTRODUCTION (Task 3):
 Task3 focuses on understanding the importance of effective digital communication in today’s connected world. It highlights how the way we share information online can impact outcomes in academic and professional settings. Through examples and analysis, this task explores common communication mistakes and their consequences. It also emphasizes the need for clarity, proper platform usage, and responsible behavior while communicating digitally to avoid misunderstandings and ensure better collaboration.
 
 INTRODUCTION (Task 4):
+Task 4 focuses on exploring the importance of digital platforms and how they can be used for learning, creativity, and professional growth. It highlights different tools and their practical uses in academics and skill development. This task also encourages understanding how to use these platforms effectively to build knowledge, improve productivity, and prepare for future opportunities in a digital world.
 
 
 
